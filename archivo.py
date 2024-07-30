@@ -1,1 +1,1 @@
-"hello" 
+print("hola mundo soy freddysito")
